@@ -1,0 +1,17 @@
+qinglv,quansuo,zhuoxiang,qingxi,aoxian,yinghua,0.697,0.460,yes
+wuhei,quansuo,chenmen,qingxi,aoxian,yinghua,0.774,0.376,yes
+wuhei,quansuo,zhuoxiang,qingxi,aoxian,yinghua,0.634,0.264,yes
+qinglv,quansuo,chenmen,qingxi,aoxian,yinghua,0.608,0.318,yes
+qianbai,quansuo,zhuoxiang,qingxi,aoxian,yinghua,0.556,0.215,yes
+qinglv,shaojuan,zhuoxiang,qingxi,shaoao,ruannian,0.403,0.237,yes
+wuhei,shaojuan,zhuoxiang,shaohu,shaoao,ruannian,0.481,0.149,yes
+wuhei,shaojuan,zhuoxiang,qingxi,shaoao,yinghua,0.437,0.211,yes
+wuhei,shaojuan,chenmen,shaohu,shaoao,yinghua,0.666,0.091,no
+qinglv,yingting,qingcui,qingxi,pingtan,ruannian,0.243,0.267,no
+qianbai,yingting,qingcui,mohu,pingtan,yinghua,0.245,0.057,no
+qianbai,quansuo,zhuoxiang,mohu,pingtan,ruannian,0.343,0.099,no
+qinglv,shaojuan,zhuoxiang,shaohu,aoxian,yinghua,0.639,0.161,no
+qianbai,shaojuan,chenmen,shaohu,aoxian,yinghua,0.657,0.198,no
+wuhei,shaojuan,zhuoxiang,qingxi,shaoao,ruannian,0.360,0.370,no
+qianbai,quansuo,chenmen,mohu,pingtan,yinghua,0.593,0.042,no
+qinglv,quansuo,chenmen,shaohu,shaoao,yinghua,0.719,0.103,no

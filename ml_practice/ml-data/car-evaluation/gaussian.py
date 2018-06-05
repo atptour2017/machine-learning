@@ -1,0 +1,4 @@
+
+
+def getGaussianAverage(datalist):
+	for 
